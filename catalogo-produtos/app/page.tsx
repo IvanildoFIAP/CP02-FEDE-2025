@@ -5,6 +5,7 @@ export default function Home() {
     <main>
       <h1>Catálogo de produtos</h1>
       <CardProduto />
+      <p></p>
     </main>
   );
 }

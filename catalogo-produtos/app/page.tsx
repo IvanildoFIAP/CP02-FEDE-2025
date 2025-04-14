@@ -1,5 +1,7 @@
+// Importação do CardProduto
 import CardProduto from "@/components/CardProduto";
 
+// Estrutura da página home
 export default function Home() {
   return (
     <main>
